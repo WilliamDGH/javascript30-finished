@@ -1,2 +1,1 @@
-# javascript30-finished
-JavaScript 30 challenges finished projects 
+#My finished JavaScript 30 projects
