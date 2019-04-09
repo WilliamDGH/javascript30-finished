@@ -10,7 +10,7 @@ const play = function (key) {
 
 }
 
-document.addEventListener("keydown", function (event) {
-  let keyCode = event.keyCode;
+document.addEventListener("keydown", function (e) {
+  let keyCode = e.keyCode;
   play(keyCode);
 });
